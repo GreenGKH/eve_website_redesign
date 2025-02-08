@@ -40,10 +40,10 @@ html {
     transform: translateY(0);
 }
 
-.section:not(.active) {
+/* .section:not(.active) {
     opacity: 0;
     transform: translateY(50px);
-}
+} */
 
 .section::before {
     content: "";
